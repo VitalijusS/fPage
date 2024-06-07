@@ -1,0 +1,41 @@
+.sidebar {
+    width: 10%;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    color: white;
+    border-radius: 25px;
+}
+.h1sidebar{
+    font-size: 70px;
+    font-weight: 5000px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align: center;
+    padding-top: 0;
+}
+.mainContent {
+    width: 85%;
+    float: right;
+}
+.sideImg{
+    padding: 30%;
+}
+.mainOne{
+    margin-top: 50px;
+    width: 50%;
+    float: left;
+    background-color: antiquewhite;    
+}
+.mainTwo {
+    margin-top: 50px;
+    width: 40%;
+    background-color: aquamarine;
+    float: right;
+}
+.courseStyle{
+    background-color: #F5F5F7;
+    border-radius: 25px;
+    padding-left: 20px;
+    
+}
