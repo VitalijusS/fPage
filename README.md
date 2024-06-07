@@ -5,17 +5,17 @@ _website design project_
 
 ## 🌟 About
 
-The purpose of this project is to learn HTML and CSS basics.
+The purpose of this project is to learn HTML and CSS.
 
-Site published at: ????????
+Site published at: https://vitalijuss.github.io/fPage/
 
 Design: [fPage](https://dribbble.com/shots/11206362-FREE-Online-Courses-Dashboard/attachments/2812164?mode=media)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   basic HTML elements/tags
--   basic inline-CSS rules
+-   HTML elements/tags
+-   CSS rules
 -   **NO** responsive design
 
 ## 🎅 Authors
